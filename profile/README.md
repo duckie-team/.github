@@ -1,6 +1,6 @@
 <p align="center"><img alt="logo" src="https://raw.githubusercontent.com/duckie-team/.github/main/assets/duckie_logo.svg" width="15%"/></p>
 <h1 align="center">DUCKIE</h1>
-<h4 align="center">More Fans, More Funny.</h4>
+<h3 align="center">More Fans, More Funny.</h3>
 
 ---
 
