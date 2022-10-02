@@ -1,12 +1,13 @@
 ## Welcome to Duckie World! 🥳 
 
-TBD
+- [What is Duckie?](https://github.com/duckie-team/duckie-app/blob/main/documents/branding.md)
+- TBD
 
-## Sitemap (WIP)
+## Sitemap
 
 1. [duckie.team](https://duckie.team): Duckie's Official Website
 2. [blog.duckie.team](https://blog.duckie.team): Duckie's Tech Blog
-3. [oss.duckie.team](https://oss.duckie.team): Duckie's Open-Source Software
+3. [opensource.duckie.team](https://opensource.duckie.team): Duckie's Open-Source projects
 
 ## Latest Tech Blog Articles
 
