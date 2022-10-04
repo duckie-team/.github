@@ -1,4 +1,4 @@
-# Welcome to Duckie World! 🥳
+# Welcome to Duckie's Dev Space! 🥳
 
 ![](/assets/dev_banner.svg)
 
