@@ -12,6 +12,7 @@
 1. [duckie.team](https://duckie.team): Duckie's Official Website
 2. [blog.duckie.team](https://blog.duckie.team): Duckie's Tech Blog
 3. [opensource.duckie.team](https://opensource.duckie.team): Duckie's Open-Source Projects
+4. [play.google.com](https://play.google.com/store/apps/dev?id=4933809019035899091): Duckie's PlayStore Developer Page
 
 ## Latest Tech Blog Articles
 
