@@ -10,12 +10,12 @@
 ## Sitemap
 
 1. [duckie.team](https://duckie.team): Duckie's Branding Website
-2. [blog.duckie.team](https://blog.duckie.team): Duckie's Tech Blog
+2. [blog.duckie.team](https://blog.duckie.team): Duckie's Blog
 3. [opensource.duckie.team](https://opensource.duckie.team): Duckie's Open-Source Projects
 4. [snapshots.duckie.team](https://snapshots.duckie.team): Duckie Products Snapshot Image
 5. [play.google.com](https://play.google.com/store/apps/dev?id=4933809019035899091): Duckie's PlayStore Developer Page
 
-## Latest Tech Blog Articles
+## Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
 - [덕키와 함께 하실 백엔드 개발자분을 모집합니다!](https://blog.duckie.team/%EB%8D%95%ED%82%A4%EC%99%80-%ED%95%A8%EA%BB%98-%ED%95%98%EC%8B%A4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%B6%84%EC%9D%84-%EB%AA%A8%EC%A7%91%ED%95%A9%EB%8B%88%EB%8B%A4-a52109711309?source=rss----f4cd2e25357---4)
