@@ -5,7 +5,6 @@
 ## What is Duckie?
 
 - [“Duckie” 를 소개합니다.](https://blog.duckie.team/duckie-%EB%A5%BC-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-70b6a06ec806)
-- [Introducing “Duckie”.](https://github.com/duckie-team/duckie-app/blob/main/documents/branding.md)
 
 ## Sitemap
 
