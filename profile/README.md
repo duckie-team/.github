@@ -4,7 +4,7 @@
 
 ## What is Duckie?
 
-Hello there! We are DUCKIE team.
+Hello there! We are DUCKIE team.  
 We are creating a new fan community that didn't exist in the world to make the world a better place.
 
 Our representative features include:
