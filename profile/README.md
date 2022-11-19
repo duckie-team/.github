@@ -10,7 +10,7 @@ We are creating a new fan community that didn't exist in the world to make the w
 Our representative features include:
 
 - Free and anonymous fan communication space (like Twitter)
-- If you find fan goods you want, you can ask for a deal.
+- If you find fan goods you want, you can ask for a deal
 - All transactions are commission-free!
 
 > 덕키는 트위터처럼 자유로운 익명 공간에 당근마켓의 중고 거래 성격을 합친 서비스 입니다.  
