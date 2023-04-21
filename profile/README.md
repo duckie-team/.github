@@ -2,6 +2,10 @@
 
 ![](/assets/dev_banner.svg)
 
+## Projects
+
+- [QuackQuack-v2](https://github.com/orgs/duckie-team/projects/4)
+
 ## Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
